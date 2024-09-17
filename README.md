@@ -16,4 +16,5 @@ This repo is a dev container template that contains all extensions and dependenc
 ### Run
 
 1. Open the project in VSCode
-2. Open the dev container using View -> Command Palette 
+2. Open the dev container using 
+View -> Command Palette 
