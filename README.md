@@ -6,6 +6,7 @@ This repo is a dev container template that contains all extensions and dependenc
 
 - Docker Desktop
 - Visual Studio Code
+- Dev Containers VSCode extension
 
 ## Usage
 
