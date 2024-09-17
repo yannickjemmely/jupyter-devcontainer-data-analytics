@@ -9,10 +9,6 @@ This repo is a dev container template that contains all extensions and dependenc
 
 ## Usage
 
-### Prepare
-- 
-
-### Run
 
 1. Open the project in VSCode
 2. Update the dependencies in requirements.txt (if necessary)
